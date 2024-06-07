@@ -1,5 +1,5 @@
 console.log(
-	"This is a number system convert of Decimal to Binary, Octal, and Hexadecimal.\nThose input not start with number will be invalid input.\nInput will be converted to number before convertion.\n\n"
+	"This is a number system convert of Decimal to Binary, Octal, and Hexadecimal.\nThose input not start with number will be invalid input.\nInput will be converted to number before convertion.\n\nDevelop by jimbs as entry for the Challenge of France Marteja.\n"
 );
 question();
 function question() {
