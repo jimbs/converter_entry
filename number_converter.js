@@ -61,7 +61,7 @@ function decimalToOctal(input) {
   let ans = "";
   const base = 8;
 
-  for (; parseInt(val) != 0 && !isNaN(val); ) {
+  for (; parseInt(val) != 0; ) {
     ans = parseInt(((val / base) % 1) * base) + ans;
     val = truncNum(val / base);
   }
