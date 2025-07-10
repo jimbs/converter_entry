@@ -5,6 +5,7 @@ Nodejs
 
 # How to run the code
 ### this is for my entry
+<!-- this version for student/beginner friendly -->
 
 > node number_converter.js
 
